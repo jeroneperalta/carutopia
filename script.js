@@ -1,3 +1,4 @@
+smoothScroll();
 function heroSlider() {
   tns({
     container: ".hero--slide",
